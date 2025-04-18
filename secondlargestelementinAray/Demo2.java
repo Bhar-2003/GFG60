@@ -14,7 +14,7 @@ public class Demo2 {
             if(arr[i]>largest){
                 largest=arr[i];
             }
-            else if(arr[i]>second_largest && arr[i]!=largest) {
+            if(arr[i]>second_largest && arr[i]!=largest) {
                 second_largest = arr[i];
             }
         }
