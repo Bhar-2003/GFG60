@@ -1,7 +1,6 @@
-package secondlargestelementinAray;
+package secondlargestelementinArray;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class Demo1 {
     // Time Complexity: O(n*log(n))

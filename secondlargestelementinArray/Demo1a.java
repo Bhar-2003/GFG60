@@ -1,4 +1,4 @@
-package secondlargestelementinAray;
+package secondlargestelementinArray;
 
 import java.util.Arrays;
 

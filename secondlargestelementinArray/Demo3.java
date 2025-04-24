@@ -1,4 +1,4 @@
-package secondlargestelementinAray;
+package secondlargestelementinArray;
 
 public class Demo3 {
     // Time Complexity: O(n)

@@ -1,6 +1,5 @@
-package secondlargestelementinAray;
+package secondlargestelementinArray;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Demo2 {
