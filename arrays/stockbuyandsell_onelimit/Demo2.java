@@ -1,4 +1,4 @@
-package stockbuyandsell_onelimit;
+package arrays.stockbuyandsell_onelimit;
 
 public class Demo2 {
     // Time Complexity: O(n)

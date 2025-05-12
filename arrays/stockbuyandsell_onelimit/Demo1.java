@@ -1,4 +1,4 @@
-package stockbuyandsell_onelimit;
+package arrays.stockbuyandsell_onelimit;
 
 public class Demo1 {
     // O(n^2) Time
