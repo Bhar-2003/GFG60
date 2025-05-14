@@ -1,4 +1,4 @@
-package smallestmissingpositive;
+package arrays.smallestmissingpositive;
 
 import java.util.Arrays;
 

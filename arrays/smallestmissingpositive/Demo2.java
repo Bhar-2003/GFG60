@@ -1,4 +1,4 @@
-package smallestmissingpositive;
+package arrays.smallestmissingpositive;
 
 public class Demo2 {
     // O(n) Time
@@ -10,7 +10,7 @@ public class Demo2 {
             if(arr[i]>0 && arr[i]<n)
                 visit[arr[i]-1]=true;
         }
-        for (int i=1;i<n;i++){
+        for (int i=1;i<=n;i++){
             if(!visit[i-1])
                 return i;
         }

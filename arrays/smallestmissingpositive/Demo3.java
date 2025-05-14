@@ -1,4 +1,4 @@
-package smallestmissingpositive;
+package arrays.smallestmissingpositive;
 
 public class Demo3 {
     // O(n) Time
